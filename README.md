@@ -71,7 +71,7 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by calling the mint and burn function. We can give address(i.e._addr) and tansfer value(i.e._val) to mint and burn funtion and see the value reflected under Total_supply.
 
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
